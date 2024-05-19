@@ -828,11 +828,11 @@
 
 - name: Julia Kaltenborn
   image: jkaltenborn.jpg
-  website: https://liellnima.github.io
+  website: https://juliakaltenborn.github.io
   description: Machine Learning for Climate Science
   supervised_by: David Rolnick
   scholar: null
-  level: msc
+  level: phd
 
 - name: Junhao Wang
   image: default.jpg
